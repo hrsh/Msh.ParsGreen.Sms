@@ -45,7 +45,7 @@ Install-Package Msh.ParsGreen.HttpService.Core.Api -Version 1.0.0
         var t = await _smsProvider.InvokeSendSmsAsync(new SendSmsModel
         {
             Body = "My API",
-            ToNumber = "09017206191"
+            ToNumber = "enter a valid number"
         });
         if (t.Succeeded)
         {
