@@ -2,9 +2,10 @@
 A tiny library based on [ParsGreen](https://www.parsgreen.ir) RestAPI to send SMS for .NET core web application.
 
 ### Installation
-`
+Install via `nuget`:
+```
 Install-Package Msh.ParsGreen.HttpService.Core.Api -Version 1.0.0
-`
+```
 
 ### Usage
 - Application `startup.cs`
