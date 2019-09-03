@@ -3,7 +3,7 @@ A tiny library based on [ParsGreen](https://www.parsgreen.ir) RestAPI to send SM
 
 ### Installation
 `
-Nuget
+Install-Package Msh.ParsGreen.HttpService.Core.Api -Version 1.0.0
 `
 
 ### Usage
